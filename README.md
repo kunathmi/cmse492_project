@@ -7,10 +7,11 @@ This is a classification algorithm that can classify keypoint data of body movem
 Here is the Project Structure:
 
 cmse492_project/
+
     data/
-        raw/               
-        processed/            
-        README.md           
+        raw/          
+        processed/   
+        README.md   
     notebooks/
         01_exploratory_data_analysis.ipynb
         02_data_preprocessing.ipynb
