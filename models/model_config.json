@@ -1,0 +1,13 @@
+{
+    "model_type": "SVM",
+    "hyperparameters": {
+        "kernel": 'linear',
+    },
+    "preprocessing": {
+        "scaler": "StandardScaler",
+        "encoder": "OneHotEncoder"
+    },
+    "input_features": 17,
+    "output_classes": 2,
+    "training_date": "2024-11-30"
+}
