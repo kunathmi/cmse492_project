@@ -9,34 +9,24 @@ Here is the Project Structure:
 cmse492_project/
 
     data/
-        raw/          
-        processed/   
+        keypoints2d/          
         README.md   
     notebooks/
         01_exploratory_data_analysis.ipynb
         02_data_preprocessing.ipynb
         03_model_training.ipynb
         04_model_evaluation.ipynb
-        05_hyperparameter_tuning.ipynb
-    src/
-        __init__.py
-        data_preprocessing.py      
-        feature_engineering.py     
-        model.py                   
-        evaluate.py               
-        config.py            
+        05_hyperparameter_tuning.ipynb      
     models/
         model.pkl                  
         model_config.json      
         README.md                 
     reports/
         interim/                   
-        final/                
-    tests/
-        test_data_preprocessing.py 
-        test_model.py             
+        final/                         
     requirements.txt             
     README.md                      
     .gitignore                   
 
 
+The data can be downloaded from the keypoints2d folder. Then, you can run any of the notebooks! They are embedded, so if you want the final result, you can just run notebook 5 which in turn runs the others in addition to itself.
