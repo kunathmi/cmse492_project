@@ -1,4 +1,4 @@
-# cmse492_project
+# Dance Genre Classification
 
 This is a classification algorithm that can classify keypoint data of body movements in dance videos into 2 different dance styles. The two dance styles it will classify are Jazz Ballet and House.
 
