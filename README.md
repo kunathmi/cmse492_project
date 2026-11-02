@@ -22,8 +22,8 @@ cmse492_project/
         model_config.json      
         README.md                 
     reports/
-        interim/                   
-        final/                         
+        interim.md                  
+        ML_Final_Report.md                         
     requirements.txt             
     README.md                      
     .gitignore                   
