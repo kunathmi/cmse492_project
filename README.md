@@ -29,4 +29,4 @@ cmse492_project/
     .gitignore                   
 
 
-The data can be downloaded from the keypoints2d folder. Then, you can run any of the notebooks! They are embedded, so if you want the final result, you can just run notebook 5 which in turn runs the others in addition to itself.
+The data can be downloaded from the keypoints2d folder. Then, you can run any of the notebooks! They are embedded, so if you want the final result, you can just run notebook 5 which runs the others in addition to itself.
