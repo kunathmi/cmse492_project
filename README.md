@@ -23,7 +23,7 @@ cmse492_project/
         README.md                 
     reports/
         interim.md                  
-        ML_Final_Report.md                         
+        ML_Final_Report.pdf                        
     requirements.txt             
     README.md                      
     .gitignore                   
